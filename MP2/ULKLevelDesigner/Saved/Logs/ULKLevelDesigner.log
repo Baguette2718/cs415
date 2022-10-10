@@ -2904,3 +2904,32 @@ Make sure 'Mortar_C' has been compiled for  Get LaunchVelocity
 [2022.10.10-18.20.58:586][590]AssetCheck: New page: Asset Save: multiple assets
 [2022.10.10-18.20.58:586][590]LogContentValidation: Display: Validating World /Game/BlockGame/Maps/MyMap.MyMap
 [2022.10.10-18.20.58:586][590]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BlockGame/Maps/MyMap_BuiltData.MyMap_BuiltData
+[2022.10.10-18.24.06:380][459]LogSlate: Window 'Open Project' being destroyed
+[2022.10.10-18.24.12:143][  7]LogSavePackage: Moving '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Saved/Explosion_Radius6062ED4243F05675AA7626B8C5F11CB9.tmp' to '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/Hour_of_Code/Blueprints/Game/AI/Explosion_Radius.uasset'
+[2022.10.10-18.24.12:163][  7]AssetCheck: New page: Asset Save: Explosion_Radius
+[2022.10.10-18.24.12:163][  7]LogContentValidation: Display: Validating Blueprint /Game/Hour_of_Code/Blueprints/Game/AI/Explosion_Radius.Explosion_Radius
+[2022.10.10-18.24.14:202][235]LogSavePackage: Moving '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Saved/MI_PuzzleCube_A_EmissiveOn3191BD35489CB459F9AACFA4FE09C907.tmp' to '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/Hour_of_Code/Materials/MI_PuzzleCube_A_EmissiveOn.uasset'
+[2022.10.10-18.24.14:217][235]AssetCheck: New page: Asset Save: MI_PuzzleCube_A_EmissiveOn
+[2022.10.10-18.24.14:217][235]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Hour_of_Code/Materials/MI_PuzzleCube_A_EmissiveOn.MI_PuzzleCube_A_EmissiveOn
+[2022.10.10-18.24.19:305][813]LogSavePackage: Moving '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Saved/MI_PuzzleCube_A_EmissiveOn7A8802A24B628DEAAAAB23BF32935573.tmp' to '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/Hour_of_Code/Materials/MI_PuzzleCube_A_EmissiveOn.uasset'
+[2022.10.10-18.24.19:320][813]AssetCheck: New page: Asset Save: MI_PuzzleCube_A_EmissiveOn
+[2022.10.10-18.24.19:320][813]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Hour_of_Code/Materials/MI_PuzzleCube_A_EmissiveOn.MI_PuzzleCube_A_EmissiveOn
+[2022.10.10-18.24.21:488][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockGame/Maps/MyMap" FILE="../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/BlockGame/Maps/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.10-18.24.21:562][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.10.10-18.24.21:794][ 14]LogSavePackage: Moving '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Saved/MyMap223443694F3F8F3DA37AF289B92DAC8B.tmp' to '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/BlockGame/Maps/MyMap.umap'
+[2022.10.10-18.24.21:802][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockGame/Maps/MyMap_BuiltData" FILE="../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/BlockGame/Maps/MyMap_BuiltData.uasset" SILENT=true
+[2022.10.10-18.24.22:199][ 14]LogSavePackage: Moving '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Saved/MyMap_BuiltData3C96B8A0449EB09D3B6641B7A51082CB.tmp' to '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/BlockGame/Maps/MyMap_BuiltData.uasset'
+[2022.10.10-18.24.22:215][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.10-18.24.22:215][ 14]LogContentValidation: Display: Validating World /Game/BlockGame/Maps/MyMap.MyMap
+[2022.10.10-18.24.22:215][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BlockGame/Maps/MyMap_BuiltData.MyMap_BuiltData
+[2022.10.10-18.24.25:410][273]LogSavePackage: Moving '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Saved/HealthPackAsset1197975C4CD5D809156046970FAA57CA.tmp' to '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/Hour_of_Code/Materials/HealthPackAsset.uasset'
+[2022.10.10-18.24.25:424][273]AssetCheck: New page: Asset Save: HealthPackAsset
+[2022.10.10-18.24.25:424][273]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Hour_of_Code/Materials/HealthPackAsset.HealthPackAsset
+[2022.10.10-18.24.29:344][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockGame/Maps/MyMap" FILE="../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/BlockGame/Maps/MyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.10-18.24.29:406][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.10.10-18.24.29:636][663]LogSavePackage: Moving '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Saved/MyMapCFF288684E9DDF1E4DA54D8CFF9FBE2F.tmp' to '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/BlockGame/Maps/MyMap.umap'
+[2022.10.10-18.24.29:643][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlockGame/Maps/MyMap_BuiltData" FILE="../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/BlockGame/Maps/MyMap_BuiltData.uasset" SILENT=true
+[2022.10.10-18.24.30:041][663]LogSavePackage: Moving '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Saved/MyMap_BuiltData913B9452460B49589A11088579E79C10.tmp' to '../../../../../../Users/aed6/Documents/Unreal Projects/tmp/Content/BlockGame/Maps/MyMap_BuiltData.uasset'
+[2022.10.10-18.24.30:056][663]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.10-18.24.30:056][663]LogContentValidation: Display: Validating World /Game/BlockGame/Maps/MyMap.MyMap
+[2022.10.10-18.24.30:056][663]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BlockGame/Maps/MyMap_BuiltData.MyMap_BuiltData
